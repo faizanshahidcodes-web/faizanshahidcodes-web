@@ -11,7 +11,7 @@ I enjoy solving backend problems, designing databases, developing REST APIs, and
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
 - **Frontend:** JavaScript, AJAX, HTML, CSS
-- **Currently Learning:** Python, Django, Advanced Laravel Architecture
+- **Currently Learning:** Advanced Laravel Architecture, Python
 - **Tools:** Git, GitHub, Composer
 
 ### 🚀 What I'm Working On
